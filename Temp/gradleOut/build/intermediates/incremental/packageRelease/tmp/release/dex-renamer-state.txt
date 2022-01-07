@@ -1,0 +1,4 @@
+#Thu Jan 06 07:11:54 ICT 2022
+base.0=D\:\\kampus\\sem8\\Skripsi Game\\Temukan apd 1\\Temukan APD Yang Hilang\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
